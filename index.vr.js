@@ -4,8 +4,6 @@ import './env';
 
 import WeatherCard from './vr/components/WeatherCard';
 
-const api_key = '12bca66b48f0d8d303f9b2cb1d99c51e';
-
 class WeatherSimulator extends Component {
   constructor() {
     super();
